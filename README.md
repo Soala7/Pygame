@@ -21,7 +21,7 @@ A growing list of beginner-to-intermediate games and fun Python code projects, s
 
 > New games are added regularly – so stay tuned and ⭐️ this repo!
 >
-> 📚 Learning Goals
+📚 Learning Goals
 This project is great for:
 
 Practicing Python fundamentals (loops, conditionals, functions, OOP)
