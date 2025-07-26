@@ -20,17 +20,8 @@ A growing list of beginner-to-intermediate games and fun Python code projects, s
   
 
 > New games are added regularly – so stay tuned and ⭐️ this repo!
-
----
-
-## 🧰 Requirements
-
-Most games run with just Python 3.x. Some may need extra libraries like:
-
-```bash
-pip install pygame
-
-📚 Learning Goals
+>
+> 📚 Learning Goals
 This project is great for:
 
 Practicing Python fundamentals (loops, conditionals, functions, OOP)
@@ -41,3 +32,14 @@ Improving problem-solving through game logic
 
 📄 License
   MIT License © 2025 [Soala]
+
+---
+
+## 🧰 Requirements
+
+Most games run with just Python 3.x. Some may need extra libraries like:
+
+```bash
+pip install pygame
+
+
